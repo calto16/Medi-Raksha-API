@@ -143,6 +143,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-7073.up.railway.app/api/']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-592c.up.railway.app/']
 
 CORS_ALLOW_ALL_ORIGINS=True
